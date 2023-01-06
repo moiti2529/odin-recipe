@@ -1,0 +1,29 @@
+[33mcommit 458a582c89feb732f7a45464b6cf3109cbf7f626[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Minh Hien <nguyenhien13032006@gmail.com>
+Date:   Fri Jan 6 15:07:51 2023 +0700
+
+    Add nuances and description to the recipe
+
+[33mcommit 738bc08aead2e6f3cc2b274571d57b9b73addbae[m
+Author: Minh Hien <nguyenhien13032006@gmail.com>
+Date:   Fri Jan 6 15:02:06 2023 +0700
+
+    link the main page and the recipe page
+
+[33mcommit 799e44bc4b15b13b315ec1bc3a191c78392a80c9[m
+Author: Minh Hien <nguyenhien13032006@gmail.com>
+Date:   Fri Jan 6 14:56:03 2023 +0700
+
+    Add a html file and its boilerplate
+
+[33mcommit c5cef587c32a500a92152d07c926911a97e74d05[m
+Author: Minh Hien <nguyenhien13032006@gmail.com>
+Date:   Fri Jan 6 14:52:27 2023 +0700
+
+    write the introduction of readme file
+
+[33mcommit b20fea73cb36ab249465661ab1249faba91d870c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: moiti2529 <121815518+moiti2529@users.noreply.github.com>
+Date:   Mon Jan 2 23:24:02 2023 +0700
+
+    Initial commit
